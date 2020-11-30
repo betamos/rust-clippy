@@ -36,6 +36,7 @@ pub const EXIT: [&str; 3] = ["std", "process", "exit"];
 pub const F32_EPSILON: [&str; 4] = ["core", "f32", "<impl f32>", "EPSILON"];
 pub const F64_EPSILON: [&str; 4] = ["core", "f64", "<impl f64>", "EPSILON"];
 pub const FILE: [&str; 3] = ["std", "fs", "File"];
+pub const THREAD_SLEEP: [&str; 3] = ["std", "thread", "sleep"];
 pub const FILE_TYPE: [&str; 3] = ["std", "fs", "FileType"];
 pub const FMT_ARGUMENTS_NEW_V1: [&str; 4] = ["core", "fmt", "Arguments", "new_v1"];
 pub const FMT_ARGUMENTS_NEW_V1_FORMATTED: [&str; 4] = ["core", "fmt", "Arguments", "new_v1_formatted"];

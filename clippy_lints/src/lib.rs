@@ -244,6 +244,7 @@ mod map_identity;
 mod map_unit_fn;
 mod match_on_vec_items;
 mod matches;
+mod may_block;
 mod mem_discriminant;
 mod mem_forget;
 mod mem_replace;
